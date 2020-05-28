@@ -1,3 +1,10 @@
+//opencvtest
+mkdie build
+cd build
+cmake ..
+make
+sudo ./imageBasics
+
 opencv简单实践番外一：ubuntu、cmake与clion（linux下的opencv） 
 
 opencv简单实践番外二：clion与github
